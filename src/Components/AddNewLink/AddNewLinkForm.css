@@ -1,0 +1,20 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  text-decoration: none;
+  color: black;
+}
+.add-button {
+  float: right;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  font-size: 24px;
+  width: 120px;
+}
+.back-icon {
+  font-size: 14px;
+}

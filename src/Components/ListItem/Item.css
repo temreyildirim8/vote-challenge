@@ -1,0 +1,42 @@
+
+.item {
+  list-style-type: none;
+  cursor: pointer;
+}
+.voteButton {
+  font-size: 10px;
+  border: 0px;
+  background-color: transparent;
+}
+.voteButton * {
+  font-size: inherit;
+}
+.linkName {
+  font-weight: bold;
+  font-size: 20px;
+}
+.linkURL {
+  opacity: 0.5;
+  font-size: 14px;
+}
+.item .col-md-auto {
+  margin: 0px 5px;
+  padding: 0px 5px;
+}
+.item-container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.item-container:hover {
+  border: 1px;
+  background-color: rgba(210, 207, 207, 0.6);
+  border-radius: 6px;
+}
+.item-removeButton {
+  position: absolute;
+  right: 15px;
+  font-size: 28px;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}

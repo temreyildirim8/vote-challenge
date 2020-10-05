@@ -1,0 +1,15 @@
+{
+  "short_name": "Hepsiburada Challenge",
+  "name": "Hepsiburada Vote Challenge",
+  "icons": [
+    {
+      "src": "Hepsiburada_icon.pnd",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

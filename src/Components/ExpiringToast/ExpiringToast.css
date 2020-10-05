@@ -1,0 +1,10 @@
+.expiring-toast {
+  position: absolute;
+  background-color: aquamarine;
+  z-index: 1;
+  top: 100px;
+  left: 40px;
+  right: 40px;
+  text-align: center;
+  border-radius: 4;
+}

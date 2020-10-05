@@ -1,0 +1,23 @@
+.SubmitLink {
+  border: 1px solid;
+  border-color: grey;
+  border-radius: 4px;
+  background-color: rgb(247, 247, 247);
+}
+.Link {
+  text-decoration: none;
+  color: black;
+}
+.Link:hover {
+  text-decoration: none;
+  color: black;
+}
+.SubmitLink .column {
+  padding: 5px;
+}
+.SubmitLink-text {
+  margin: auto 0px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+}

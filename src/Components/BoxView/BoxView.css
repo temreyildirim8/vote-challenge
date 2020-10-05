@@ -1,0 +1,14 @@
+.box-view {
+  width: 75px;
+  height: 75px;
+  border: 1px solid;
+  border-radius: 7.5px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(236, 236, 236);
+}
+.box-view-text {
+  font-weight: bold;
+  font-size: 32px;
+}

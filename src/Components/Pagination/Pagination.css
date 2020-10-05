@@ -1,0 +1,16 @@
+.pagination {
+  text-align: center;
+  font-size: 24px;
+}
+
+.pagination-activePage {
+  border: 1px solid !important;
+}
+.pagination .pageButton {
+  font-size: 16px;
+  border: 0px;
+  background-color: transparent;
+}
+.pagination i {
+  font-size: 75%;
+}
